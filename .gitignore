@@ -10,3 +10,8 @@
 # Carpetas de compiladores
 __pycache__/
 build/
+
+# Material de catedra y trabajos practicos (no se publican)
+*.pdf
+*.docx
+*.doc
