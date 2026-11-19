@@ -1,0 +1,12 @@
+# Binarios compilados
+*.exe
+*.o
+*.obj
+*.ppu
+*.a
+*.so
+*.dll
+
+# Carpetas de compiladores
+__pycache__/
+build/
