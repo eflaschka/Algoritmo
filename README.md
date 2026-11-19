@@ -23,15 +23,15 @@ Lenguaje Pascal/
 
 | # | Ejercicio | Archivo |
 |---|-----------|---------|
-| 1 | Naturaleza de un número | `1 Naturaleza/Naturaleza.c` |
-| 2 | Par o impar | `2 ParImpar/ParImpar.c` |
-| 3 | Descuento de obra social | `3 ObraSocial/ObraSocial.c` |
-| 4 | Mes del año (if/else) | `4 MesAnio/MesAnio.c` |
-| 5 | Mes del año (switch) | `5 MesAnio2/MesAnio2.c` |
-| 6 | Distancia Luna - Tierra | `6 Astros/Astros.c` |
-| 7 | Días de un mes (bisiesto) | `7 DiasMes/DiasMes.c` |
-| 8 | Longitud y área del círculo | `8 Radio/Radio.c` |
-| 9 | Horas a minutos y segundos | `9 Horas/Horas.c` |
+| 1 | Naturaleza de un número | `01 Naturaleza/Naturaleza.c` |
+| 2 | Par o impar | `02 ParImpar/ParImpar.c` |
+| 3 | Descuento de obra social | `03 ObraSocial/ObraSocial.c` |
+| 4 | Mes del año (if/else) | `04 MesAnio/MesAnio.c` |
+| 5 | Mes del año (switch) | `05 MesAnio2/MesAnio2.c` |
+| 6 | Distancia Luna - Tierra | `06 Astros/Astros.c` |
+| 7 | Días de un mes (bisiesto) | `07 DiasMes/DiasMes.c` |
+| 8 | Longitud y área del círculo | `08 Radio/Radio.c` |
+| 9 | Horas a minutos y segundos | `09 Horas/Horas.c` |
 | 10 | Calificación por nota | `10 Calificacion/Calificacion.c` |
 | 11 | Menor de tres enteros | `11 Menor/Menor.c` |
 | 12 | Edad a partir de dos fechas | `12 Edad/Edad.c` |
@@ -56,7 +56,7 @@ real (con 10.000 datos, 10.000 comparaciones contra 14) y una guía de exposici�
 Los ejercicios usan la librería `utils` y, algunos, `mates`:
 
 ```
-cd "Lenguaje C/6 Astros"
+cd "Lenguaje C/06 Astros"
 gcc Astros.c ../Librerias/utils.c -Wall -o Astros.exe
 
 cd "Lenguaje C/13 Bisiestos"
