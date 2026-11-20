@@ -2,7 +2,7 @@
 
 Ejercicios de la materia **Programación I** (primer año), resueltos en dos lenguajes:
 
-- **Lenguaje C**: 22 algoritmos, una librería propia de utilidades y una presentación
+- **Lenguaje C**: 25 algoritmos, una librería propia de utilidades y una presentación
   de complejidad algorítmica.
 - **Lenguaje Pascal**: 40 ejercicios, cada uno con su código y su diagrama de flujo.
 
@@ -45,6 +45,9 @@ Lenguaje Pascal/
 | 20 | Números perfectos | `20 Perfectos/Perfectos.c` |
 | 21 | Vector de 10 enteros y su suma | `21 Vector/Vector.c` |
 | 22 | Tabla 3x4 con sumas de filas y columnas | `22 Matriz/Matriz.c` |
+| 23 | Domingo de Pascua | `23 Pascua/Pascua.c` |
+| 24 | Hipotenusa y ángulos de un triángulo | `24 Hipotenusa/Hipotenusa.c` |
+| 25 | Área, diámetro y longitud del círculo | `25 Circulo/Circulo.c` |
 
 ### Complejidad algorítmica
 
@@ -117,3 +120,5 @@ El ejercicio 26 está resuelto con los tres bucles (MIENTRAS, PARA y REPETIR).
 
 - Los ejecutables y archivos objeto no se versionan (ver `.gitignore`).
 - Todos los ejercicios de C compilan sin advertencias con `-Wall`.
+- Del 23 en adelante los ejercicios están resueltos con subprogramas (funciones y procedimientos).
+- El ejercicio 24 usa `<math.h>`: en algunos sistemas hay que agregar `-lm` al final de `gcc`.
