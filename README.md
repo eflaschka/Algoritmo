@@ -2,7 +2,7 @@
 
 Ejercicios de la materia **Programación I** (primer año), resueltos en dos lenguajes:
 
-- **Lenguaje C**: 20 algoritmos, una librería propia de utilidades y una presentación
+- **Lenguaje C**: 22 algoritmos, una librería propia de utilidades y una presentación
   de complejidad algorítmica.
 - **Lenguaje Pascal**: 40 ejercicios, cada uno con su código y su diagrama de flujo.
 
@@ -43,6 +43,8 @@ Lenguaje Pascal/
 | 18 | n primeros pares | `18 Pares/Pares.c` |
 | 19 | Suma de los n primeros impares | `19 Impares/Impares.c` |
 | 20 | Números perfectos | `20 Perfectos/Perfectos.c` |
+| 21 | Vector de 10 enteros y su suma | `21 Vector/Vector.c` |
+| 22 | Tabla 3x4 con sumas de filas y columnas | `22 Matriz/Matriz.c` |
 
 ### Complejidad algorítmica
 
