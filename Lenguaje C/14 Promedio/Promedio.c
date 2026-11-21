@@ -45,6 +45,8 @@ printf("Promedio general de los %d alumnos: %.2f\n",
 
 mostrarSeparador('-', 55);
 
+mostrarBanner("Gracias por utilizar mis algoritmos!");
+
 pausar();
 
 return 0;

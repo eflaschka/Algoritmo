@@ -36,6 +36,8 @@ mostrarSeparador('-', 50);
 
 printf("Total: %d anios bisiestos.\n", cantidad);
 
+mostrarBanner("Gracias por utilizar mis algoritmos!");
+
 pausar();
 
 return 0;

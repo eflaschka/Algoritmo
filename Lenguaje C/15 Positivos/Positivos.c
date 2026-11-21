@@ -24,6 +24,8 @@ for (numero = 1; numero <= CANTIDAD; numero++) {
 
 mostrarSeparador('-', 50);
 
+mostrarBanner("Gracias por utilizar mis algoritmos!");
+
 pausar();
 
 return 0;

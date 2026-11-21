@@ -57,6 +57,8 @@ printf("Suma de los elementos: %d\n", sumarVector(vector, TAM));
 
 mostrarSeparador('-', 55);
 
+mostrarBanner("Gracias por utilizar mis algoritmos!");
+
 pausar();
 
 return 0;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "utils.h"
+#include "../Librerias/utils.h"
 
 //Funcion encargada de determinar el mes del año.
 void determinarMes(int numero) {
@@ -60,6 +60,8 @@ mostrarSeparador('-', 35);
 determinarMes(numero);
 
 mostrarSeparador('-', 35);
+
+mostrarBanner("Gracias por utilizar mis algoritmos!");
 
 pausar();
 
