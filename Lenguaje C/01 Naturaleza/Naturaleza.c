@@ -1,3 +1,5 @@
+/* Ejercicio 01 - Naturaleza */
+
 #include <stdio.h>
 #include <stdlib.h>  
 
