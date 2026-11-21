@@ -1,3 +1,5 @@
+/* Ejercicio 26 - Potencia */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 
