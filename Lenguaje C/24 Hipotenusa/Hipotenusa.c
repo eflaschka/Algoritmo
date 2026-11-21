@@ -1,3 +1,5 @@
+/* Ejercicio 24 - Hipotenusa */
+
 #include <stdio.h>
 #include <math.h>
 #include "../Librerias/utils.h"
