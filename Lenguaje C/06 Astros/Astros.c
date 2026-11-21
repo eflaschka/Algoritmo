@@ -1,3 +1,5 @@
+/* Ejercicio 06 - Astros */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 
