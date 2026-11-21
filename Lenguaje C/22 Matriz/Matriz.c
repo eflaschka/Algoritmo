@@ -92,8 +92,6 @@ printf("Suma total de los elementos: %d\n", total);
 
 mostrarSeparador('=', 60);
 
-mostrarBanner("Gracias por utilizar mis algoritmos!");
-
 pausar();
 
 return 0;

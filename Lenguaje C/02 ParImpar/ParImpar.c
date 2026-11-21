@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../Librerias/utils.h"
+#include "utils.h"
 
 //Funcion encargada de determinar si un numero es par o impar.
 int esPar(int numero) {
@@ -26,8 +26,6 @@ else {
 }
 
 mostrarSeparador('-', 35);
-
-mostrarBanner("Gracias por utilizar mis algoritmos!");
 
 pausar();
 

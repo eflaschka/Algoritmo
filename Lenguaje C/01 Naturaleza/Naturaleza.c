@@ -26,10 +26,6 @@ if (numero > 0) {
     printf("%d es NEUTRO\n", numero);
 }
 
-puts("========================================");
-puts("= Gracias por utilizar mis algoritmos! =");
-puts("========================================");
-
 system("pause");
 return 0;
 }

@@ -46,8 +46,6 @@ else {
 
 mostrarSeparador('-', 45);
 
-mostrarBanner("Gracias por utilizar mis algoritmos!");
-
 pausar();
 
 return 0;

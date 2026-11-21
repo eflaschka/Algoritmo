@@ -28,8 +28,6 @@ printf("El menor es: %d\n", menor);
 
 mostrarSeparador('-', 45);
 
-mostrarBanner("Gracias por utilizar mis algoritmos!");
-
 pausar();
 
 return 0;
