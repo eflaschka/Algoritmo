@@ -1,3 +1,5 @@
+/* Ejercicio 10 - Calificacion */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 
