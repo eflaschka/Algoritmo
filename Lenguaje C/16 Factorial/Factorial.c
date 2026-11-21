@@ -1,3 +1,5 @@
+/* Ejercicio 16 - Factorial */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 
