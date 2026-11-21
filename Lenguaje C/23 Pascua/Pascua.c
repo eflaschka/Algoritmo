@@ -1,3 +1,5 @@
+/* Ejercicio 23 - Pascua */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 
