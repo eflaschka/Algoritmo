@@ -1,3 +1,5 @@
+/* Ejercicio 19 - Impares */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 
