@@ -1,3 +1,5 @@
+/* Ejercicio 02 - ParImpar */
+
 #include <stdio.h>
 #include "utils.h"
 
