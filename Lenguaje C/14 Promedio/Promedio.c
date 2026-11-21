@@ -1,3 +1,5 @@
+/* Ejercicio 14 - Promedio */
+
 #include <stdio.h>
 #include "../Librerias/utils.h"
 #include "../Librerias/mates.h"
