@@ -2,7 +2,7 @@
 
 Ejercicios de la materia **Programación I** (primer año), resueltos en dos lenguajes:
 
-- **Lenguaje C**: 25 algoritmos, una librería propia de utilidades y una presentación
+- **Lenguaje C**: 27 algoritmos, una librería propia de utilidades y una presentación
   de complejidad algorítmica.
 - **Lenguaje Pascal**: 40 ejercicios, cada uno con su código y su diagrama de flujo.
 
@@ -48,6 +48,8 @@ Lenguaje Pascal/
 | 23 | Domingo de Pascua | `23 Pascua/Pascua.c` |
 | 24 | Hipotenusa y ángulos de un triángulo | `24 Hipotenusa/Hipotenusa.c` |
 | 25 | Área, diámetro y longitud del círculo | `25 Circulo/Circulo.c` |
+| 26 | Potencia de un número | `26 Potencia/Potencia.c` |
+| 27 | n números de Fibonacci | `27 Fibonacci/Fibonacci.c` |
 
 ### Complejidad algorítmica
 
