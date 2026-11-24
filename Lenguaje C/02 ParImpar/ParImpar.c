@@ -1,7 +1,7 @@
 /* Ejercicio 02 - ParImpar */
 
 #include <stdio.h>
-#include "utils.h"
+#include "../Librerias/utils.h"
 
 //Funcion encargada de determinar si un numero es par o impar.
 int esPar(int numero) {
