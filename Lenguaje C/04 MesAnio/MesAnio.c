@@ -1,7 +1,7 @@
 /* Ejercicio 04 - MesAnio */
 
 #include <stdio.h>
-#include "utils.h"
+#include "../Librerias/utils.h"
 
 //Funcion encargada de determinar el mes del año.
 void determinarMes(int numero) {
