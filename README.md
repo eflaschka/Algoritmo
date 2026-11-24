@@ -2,7 +2,7 @@
 
 Ejercicios de la materia **Programación I** (primer año), resueltos en dos lenguajes:
 
-- **Lenguaje C**: 27 algoritmos, una librería propia de utilidades y una presentación
+- **Lenguaje C**: 30 algoritmos, una librería propia de utilidades y una presentación
   de complejidad algorítmica.
 - **Lenguaje Pascal**: 40 ejercicios, cada uno con su código y su diagrama de flujo.
 
@@ -50,6 +50,9 @@ Lenguaje Pascal/
 | 25 | Área, diámetro y longitud del círculo | `25 Circulo/Circulo.c` |
 | 26 | Potencia de un número | `26 Potencia/Potencia.c` |
 | 27 | n números de Fibonacci | `27 Fibonacci/Fibonacci.c` |
+| 28 | Menú de conversión de temperaturas | `28 Temperatura/Temperatura.c` |
+| 29 | Cajero automático (login, saldo, extracción, depósito) | `29 Cajero/Cajero.c` |
+| 30 | Calculadora con menú y subprogramas | `30 Calculadora/Calculadora.c` |
 
 ### Complejidad algorítmica
 
