@@ -56,10 +56,10 @@ Lenguaje Pascal/
 
 ### Complejidad algorítmica
 
-`Complejidad Algoritmica/Complejidad.c` es un programa con menú que compara
-búsqueda lineal, binaria (iterativa y recursiva) y búsqueda en arreglo bitónico,
-mostrando la traza y el número de comparaciones. Incluye una tabla de crecimiento
-real (con 10.000 datos, 10.000 comparaciones contra 14) y una guía de exposición.
+`Complejidad Algoritmica/Complejidad.c` es un programa con menú que muestra la
+búsqueda binaria (iterativa y recursiva) y la búsqueda en un arreglo bitónico,
+con traza y número de comparaciones. La tabla final usa la búsqueda lineal como
+referencia de crecimiento (con 10.000 datos, 10.000 comparaciones contra 14).
 
 ### Compilar
 
