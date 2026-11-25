@@ -226,20 +226,6 @@ if (posicion != -1) {
 return busquedaEnRango(v, pico + 1, n - 1, buscado, 0, traza, comparaciones);
 }
 
-void ejecutarBusquedaLineal(void) {
-int buscado, posicion, comparaciones = 0;
-
-mostrarArreglo("Arreglo ordenado:", ordenado, TAM_ORDENADO);
-buscado = leerEntero("\nValor a buscar: ");
-
-printf("\nTraza de la busqueda lineal (un paso por cada elemento):\n\n");
-posicion = busquedaLineal(ordenado, TAM_ORDENADO, buscado, 1, &comparaciones);
-
-mostrarResultado(posicion, buscado, comparaciones);
-
-pausar();
-}
-
 void ejecutarBinariaIterativa(void) {
 int buscado, posicion, comparaciones = 0;
 
@@ -324,11 +310,10 @@ pausar();
 }
 
 void mostrarMenu(void) {
-puts("1. Busqueda lineal (para comparar)");
-puts("2. Busqueda binaria iterativa");
-puts("3. Busqueda binaria recursiva");
-puts("4. Busqueda bitonica (pico + dos mitades)");
-puts("5. Tabla de complejidad y crecimiento");
+puts("1. Busqueda binaria iterativa");
+puts("2. Busqueda binaria recursiva");
+puts("3. Busqueda bitonica (pico + dos mitades)");
+puts("4. Tabla de complejidad y crecimiento");
 puts("0. Salir");
 }
 
@@ -346,29 +331,23 @@ do {
 
         case 1:
             limpiar();
-            mostrarBanner("Busqueda lineal - O(n)");
-            ejecutarBusquedaLineal();
-            break;
-
-        case 2:
-            limpiar();
             mostrarBanner("Busqueda binaria iterativa - O(log n)");
             ejecutarBinariaIterativa();
             break;
 
-        case 3:
+        case 2:
             limpiar();
             mostrarBanner("Busqueda binaria recursiva - O(log n)");
             ejecutarBinariaRecursiva();
             break;
 
-        case 4:
+        case 3:
             limpiar();
             mostrarBanner("Busqueda bitonica - O(log n)");
             ejecutarBitonica();
             break;
 
-        case 5:
+        case 4:
             mostrarTabla();
             break;
 
